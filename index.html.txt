@@ -16,7 +16,8 @@
   </article>
  <footer>
   //tarea
-
+<Pedraza Sanabria>
+</Coloque una nueva etiqueta Pedraza Sanabria en el index.html>
 </footer>
 </body>
 </html>
